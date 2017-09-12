@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "483026624779",
+    "firebase_url": "https://avnichat-ffc24.firebaseio.com",
+    "project_id": "avnichat-ffc24",
+    "storage_bucket": "avnichat-ffc24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483026624779:android:1a7fbddabf9fe7e8",
+        "android_client_info": {
+          "package_name": "com.example.avnijain.avnichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483026624779-i6jhpi6l489fpbspuvtq6cfe23o0l7mr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.avnijain.avnichat",
+            "certificate_hash": "a5afa64638d23b5c4a8163a5a44b0af49c706128"
+          }
+        },
+        {
+          "client_id": "483026624779-fhpl9tbk89rq9adoddhhjbj3kce84094.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_yb-7zp7DZ794GoToyC0b5fRp2Qay3mY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483026624779-fhpl9tbk89rq9adoddhhjbj3kce84094.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
