@@ -336,9 +336,7 @@ public class LoginActivity extends AppCompatActivity {
             });
         }
 
-        /**
-         * Luu thong tin user info cho nguoi dung dang nhap
-         */
+       
         void saveUserInfo() {
             FirebaseDatabase.getInstance().getReference().child("user/" + StaticConfig.UID)
                     .addListenerForSingleValueEvent(new ValueEventListener() {
@@ -360,9 +358,7 @@ public class LoginActivity extends AppCompatActivity {
             });
         }
 
-        /**
-         * Khoi tao thong tin mac dinh cho tai khoan moi
-         */
+ 
         void initNewUserInfo() {
             User newUser = new User();
             newUser.email = user.getEmail();
